@@ -1,0 +1,126 @@
+{
+  "slug": "equilibriumclear",
+  "box": 37,
+  "question": "What is Le Chatelier's principle?",
+  "url": "https://glassbox.how/e/equilibriumclear/",
+  "app": "https://glassbox.how/equilibriumclear/",
+  "assets": {
+    "reel": "reel.mp4",
+    "video": "video.mp4",
+    "cover": "cover.jpg",
+    "thumb": "thumb.jpg",
+    "still": "still.jpg",
+    "historyReel": "history-reel.mp4",
+    "historySlides": [
+      "history-slide-1.jpg",
+      "history-slide-2.jpg",
+      "history-slide-3.jpg",
+      "history-slide-4.jpg",
+      "history-slide-5.jpg",
+      "history-slide-6.jpg",
+      "history-slide-7.jpg",
+      "history-slide-8.jpg",
+      "history-slide-9.jpg",
+      "history-slide-10.jpg"
+    ],
+    "slides": [
+      "slide-1.jpg",
+      "slide-2.jpg",
+      "slide-3.jpg",
+      "slide-4.jpg",
+      "slide-5.jpg",
+      "slide-6.jpg",
+      "slide-7.jpg",
+      "slide-8.jpg",
+      "slide-9.jpg",
+      "slide-10.jpg"
+    ]
+  },
+  "captions": {
+    "history": {
+      "instagram": "From soda on an Egyptian lake shore to the reactors that grow half the world's food.\n\n1799: Soda on the shore of a salt lake\n1850: A balance that never rests\n1864: The law of mass action\n1884: How heat moves the balance\n1884: Le Chatelier states his principle\n1909: Ammonia, drop by drop\n\nThe full story, with 20 moments, sources and charts: glassbox.how/e/equilibriumclear/history (link in bio)\n\nThen play with how it works: glassbox.how/equilibriumclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #lechateliersprinciple #chemicalequilibrium #equilibriumconstant #reactionquotient #reversiblereactions #haberprocess #history",
+      "youtube": {
+        "title": "The history of chemical equilibrium and Le Chatelier's principle in 45 seconds #shorts",
+        "description": "From soda on an Egyptian lake shore to the reactors that grow half the world's food.\n\n1799 · Soda on the shore of a salt lake (Claude-Louis Berthollet)\n1850 · A balance that never rests (Alexander Williamson)\n1864 · The law of mass action (Cato Guldberg and Peter Waage)\n1884 · How heat moves the balance (Jacobus van 't Hoff)\n1884 · Le Chatelier states his principle (Henry Louis Le Chatelier)\n1909 · Ammonia, drop by drop (Fritz Haber and Robert Le Rossignol)\n\n▶ Full history: https://glassbox.how/e/equilibriumclear/history/\n▶ Play with it: https://glassbox.how/e/equilibriumclear/\n\n#glassbox #howitworks #explained #history"
+      }
+    },
+    "instagram": "What is Le Chatelier's principle?\n\nAt equilibrium a reaction has not stopped: molecules still split and join, at matching rates. Squeeze, heat or feed a live box of molecules and watch Q walk back to K. Then run a Haber converter at 200 bar, open a fizzy bottle, climb to Leh with your haemoglobin, fur up a kettle and grow a stalactite.\n\n→ Some reactions run both ways. Molecules split and join until the two rates match.\n→ Squeeze it and the balance shifts to the side with fewer molecules. That is Le Chatelier’s principle.\n→ Fertiliser starts as ammonia. Four gas molecules become two, so plants squeeze the gas to 200 bar.\n→ Cool gives more ammonia but far too slowly. About 450 °C with an iron catalyst is the compromise.\n→ A sealed fizzy drink is a balance: gas leaves the liquid as fast as it dives back in. Open it and the gas wins.\n\nPlay with it yourself. It's free and open source: glassbox.how/equilibriumclear (link in bio)\n\nBox No. L37 of 365. Follow @glassbox.how for a new \"how it works\" every day.\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #lechateliersprinciple #chemicalequilibrium #equilibriumconstant #reactionquotient #reversiblereactions #haberprocess #ammonia #fertiliser #catalyst",
+    "carousel": "Swipe through: What is Le Chatelier's principle?\n\nAt equilibrium a reaction has not stopped: molecules still split and join, at matching rates. Squeeze, heat or feed a live box of molecules and watch Q walk back to K. Then run a Haber converter at 200 bar, open a fizzy bottle, climb to Leh with your haemoglobin, fur up a kettle and grow a stalactite.\n\nSave this for later, then play with the interactive version at glassbox.how/equilibriumclear (link in bio).\n\nBox No. L37 · @glassbox.how\n\n#glassbox #howitworks #explained #learnoninstagram #stem #opensource #lechateliersprinciple #chemicalequilibrium #equilibriumconstant #reactionquotient #reversiblereactions #haberprocess",
+    "youtube": {
+      "title": "What is Le Chatelier's principle? #shorts",
+      "description": "At equilibrium a reaction has not stopped: molecules still split and join, at matching rates. Squeeze, heat or feed a live box of molecules and watch Q walk back to K. Then run a Haber converter at 200 bar, open a fizzy bottle, climb to Leh with your haemoglobin, fur up a kettle and grow a stalactite.\n\n▶ Play with it: https://glassbox.how/e/equilibriumclear/\n⌘ Source code (MIT): https://github.com/bdeeps/equilibriumclear\n\nBox No. L37 of 365 from Glassbox: one open-source interactive explainer every day.\n\n#glassbox #howitworks #explained"
+    },
+    "youtubeLong": {
+      "title": "What is Le Chatelier's principle? (interactive explainer)",
+      "description": "At equilibrium a reaction has not stopped: molecules still split and join, at matching rates. Squeeze, heat or feed a live box of molecules and watch Q walk back to K. Then run a Haber converter at 200 bar, open a fizzy bottle, climb to Leh with your haemoglobin, fur up a kettle and grow a stalactite.\n\n▶ Play with the interactive version: https://glassbox.how/e/equilibriumclear/\n⌘ Source code (MIT): https://github.com/bdeeps/equilibriumclear\n\nIn this video:\n• Both ways at once. N₂O₄ ⇌ 2NO₂ runs forwards and backwards together.\n• Bread from air. N₂ + 3H₂ ⇌ 2NH₃ gives out heat and halves the number of molecules.\n• Fizz and breath. A cola holds about 7 g/L of CO₂ under 4 bar; open it and Q leaps above K, so gas leaves.\n• Scale and caves. CaCO₃ + CO₂ + H₂O ⇌ Ca²⁺ + 2HCO₃⁻.\n• Where the rule slips. A catalyst speeds both directions equally and moves nothing.\n\nGlassbox opens one box a day: an interactive model of how something works, plus the code behind it.\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+    },
+    "short": "What is Le Chatelier's principle?\n\nAt equilibrium a reaction has not stopped: molecules still split and join, at matching rates.\n\nPlay with it: https://glassbox.how/e/equilibriumclear/",
+    "linkedin": "What is Le Chatelier's principle?\n\nAt equilibrium a reaction has not stopped: molecules still split and join, at matching rates. Squeeze, heat or feed a live box of molecules and watch Q walk back to K. Then run a Haber converter at 200 bar, open a fizzy bottle, climb to Leh with your haemoglobin, fur up a kettle and grow a stalactite.\n\n1. Both ways at once\n2. Bread from air\n3. Fizz and breath\n4. Scale and caves\n5. Where the rule slips\n\nI built an interactive, open-source explainer so you can pull the levers yourself. It's box No. L37 in my one-a-day project, Glassbox.\n\nTry it: https://glassbox.how/e/equilibriumclear/\nCode: https://github.com/bdeeps/equilibriumclear\n\n#glassbox #howitworks #explained #learnoninstagram #stem"
+  },
+  "schedule": {
+    "at": "2026-10-04T13:00:00.000Z"
+  },
+  "targets": [
+    {
+      "service": "instagram",
+      "kind": "reel",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "carousel",
+      "offsetHours": 4,
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "short",
+      "enabled": true
+    },
+    {
+      "service": "youtube",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "linkedin",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "twitter",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "threads",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "tiktok",
+      "kind": "video",
+      "enabled": true
+    },
+    {
+      "service": "instagram",
+      "kind": "history-reel",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "youtube",
+      "kind": "history-short",
+      "offsetHours": 2,
+      "enabled": false
+    },
+    {
+      "service": "instagram",
+      "kind": "history-carousel",
+      "offsetHours": 6,
+      "enabled": false
+    }
+  ],
+  "thumbnailOffsetMs": 1200,
+  "updatedAt": "2026-10-03T15:18:04.080Z"
+}

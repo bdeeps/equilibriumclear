@@ -1,0 +1,162 @@
+{
+  "slug": "equilibriumclear",
+  "kind": "principle",
+  "box": 37,
+  "date": "2026-10-03",
+  "title": "Le Chatelier's principle",
+  "question": "What is Le Chatelier's principle?",
+  "principle": {
+    "type": "principle",
+    "name": "Le Chatelier's principle",
+    "formula": "Q → K",
+    "formulaNote": "Q is the reaction quotient (the mixture as it is now) and K is the equilibrium constant (the mixture at balance). Q always moves to K. Add or remove a substance, squeeze the mixture or heat it, and the reaction shifts in the direction that undoes part of the change. Only temperature changes K itself",
+    "idea": "Many reactions run both ways and settle at a balance where the forward and backward rates are equal. Disturb that balance and the reaction shifts to undo part of what you did.",
+    "discovered": "1884 · Henry Louis Le Chatelier, Paris; found independently by Karl Ferdinand Braun in 1887. It builds on Guldberg and Waage's law of mass action (1864) and van 't Hoff's work on equilibrium and heat (1884)",
+    "art": "scales",
+    "appliesTo": [
+      "lungsclear",
+      "respirationclear",
+      "waterheaterclear",
+      "dishwasherclear"
+    ],
+    "examples": [
+      {
+        "title": "Making ammonia for fertiliser",
+        "text": "N₂ + 3H₂ ⇌ 2NH₃ turns four gas molecules into two and gives out heat. So plants squeeze the gas to about 200 bar, and run at a compromise 400–450 °C: cooler would give more ammonia, but far too slowly."
+      },
+      {
+        "title": "The recycle loop of a urea plant",
+        "text": "One pass over the iron catalyst converts only about 15 %. Cooling the gas turns the ammonia liquid and removes it, so the reaction starts forward again. Going round the loop lifts the total to about 97 %. India made about 314 lakh tonnes of urea this way in 2023–24."
+      },
+      {
+        "title": "Opening a fizzy drink",
+        "text": "A sealed cola holds about 7 g of CO₂ per litre under about 4 bar of gas. Twist the cap, the pressure above drops, and the dissolved gas is suddenly too much for the balance: it bubbles out. A warm bottle loses it faster."
+      },
+      {
+        "title": "Blood picking up oxygen",
+        "text": "Hb + O₂ ⇌ HbO₂. In the lungs oxygen pressure is about 100 mmHg, so haemoglobin fills to about 98 %. At Leh, 3,500 m up, thinner air leaves it about 90 % full.",
+        "box": "lungsclear"
+      },
+      {
+        "title": "Blood letting oxygen go",
+        "text": "A working muscle uses oxygen and makes acid and heat. Low oxygen pressure shifts the balance back, and haemoglobin hands over its oxygen just where it is needed.",
+        "box": "respirationclear"
+      },
+      {
+        "title": "Scale in a geyser or kettle",
+        "text": "Hard water holds dissolved limestone only while it also holds CO₂. Heating drives the CO₂ out, the balance tips, and calcium carbonate comes out as a white crust on the hot element.",
+        "box": "waterheaterclear"
+      },
+      {
+        "title": "A dishwasher's softener",
+        "text": "Resin beads swap the calcium in hard water for sodium. When the beads are full, a flush of strong salt water pushes the same exchange backwards and washes the calcium away.",
+        "box": "dishwasherclear"
+      },
+      {
+        "title": "Stalactites in a limestone cave",
+        "text": "Rain soaks up CO₂ in soil and dissolves limestone. When a drop reaches cave air with far less CO₂, the gas escapes and a film of stone is left. Mawmluh cave in Meghalaya grew a record of the last 4,200 years this way."
+      },
+      {
+        "title": "A brown gas that fades when squeezed",
+        "text": "Colourless N₂O₄ ⇌ 2 brown NO₂. Squeeze the mixture and it shifts towards N₂O₄, the side with fewer molecules. Warm it and it shifts towards NO₂ and turns darker, because splitting takes in heat."
+      }
+    ]
+  },
+  "hook": "At equilibrium a reaction has not stopped: molecules still split and join, at matching rates. Squeeze, heat or feed a live box of molecules and watch Q walk back to K. Then run a Haber converter at 200 bar, open a fizzy bottle, climb to Leh with your haemoglobin, fur up a kettle and grow a stalactite.",
+  "thumbText": "LE CHATELIER'S PRINCIPLE",
+  "field": "chemistry",
+  "minutes": 12,
+  "tags": [
+    "le chatelier's principle",
+    "chemical equilibrium",
+    "equilibrium constant",
+    "reaction quotient",
+    "reversible reactions",
+    "haber process",
+    "ammonia",
+    "fertiliser",
+    "catalyst",
+    "henry's law",
+    "haemoglobin",
+    "hard water",
+    "limescale",
+    "stalactites",
+    "chemistry",
+    "three.js"
+  ],
+  "explainer": [
+    {
+      "title": "Both ways at once",
+      "text": "N₂O₄ ⇌ 2NO₂ runs forwards and backwards together. The amounts level off where the two rates match, with Q equal to K (0.15 bar at 25 °C). Squeeze the gas and it shifts to fewer molecules; heat it and K itself rises a hundredfold by 100 °C. The shift undoes part of the change, never all of it."
+    },
+    {
+      "title": "Bread from air",
+      "text": "N₂ + 3H₂ ⇌ 2NH₃ gives out heat and halves the number of molecules. At 200 bar the balance holds 38 % ammonia at 400 °C, 27 % at 450 °C and 19 % at 500 °C. Plants accept about 15 % per pass at 400–450 °C over iron, tap off the liquid ammonia and recycle the rest to reach about 97 %."
+    },
+    {
+      "title": "Fizz and breath",
+      "text": "A cola holds about 7 g/L of CO₂ under 4 bar; open it and Q leaps above K, so gas leaves. Haemoglobin is 98 % full at the 100 mmHg of oxygen in your lungs, about 75 % in resting muscle and far less in working muscle. At Leh's 3,500 m it fills to about 90 %."
+    },
+    {
+      "title": "Scale and caves",
+      "text": "CaCO₃ + CO₂ + H₂O ⇌ Ca²⁺ + 2HCO₃⁻. Water under open air holds about 50 mg/L of limestone, under CO₂-rich soil air 200 mg/L or more. Boil it and the CO₂ leaves, so scale forms. Drip it into a cave and a stalactite grows, about 0.13 mm a year."
+    },
+    {
+      "title": "Where the rule slips",
+      "text": "A catalyst speeds both directions equally and moves nothing. Argon pumped into a rigid tank moves nothing either, but under a free piston it shifts the balance back. Adding nitrogen to a nitrogen-rich ammonia mix makes more nitrogen. The words can mislead; comparing Q with K never does."
+    }
+  ],
+  "concepts": [
+    {
+      "term": "Reversible reaction",
+      "def": "A reaction that can run forwards and backwards, written with the double arrow ⇌."
+    },
+    {
+      "term": "Dynamic equilibrium",
+      "def": "The state in which forward and backward reactions run at equal rates, so amounts stay steady although molecules keep reacting."
+    },
+    {
+      "term": "Equilibrium constant (K)",
+      "def": "The fixed value the ratio of products to reactants reaches at balance. It changes only with temperature."
+    },
+    {
+      "term": "Reaction quotient (Q)",
+      "def": "The same ratio worked out for the mixture as it is now. If Q is below K the forward reaction wins; above K, the backward one."
+    },
+    {
+      "term": "Le Chatelier's principle",
+      "def": "Disturb a system at equilibrium and it shifts in the direction that undoes part of the disturbance."
+    },
+    {
+      "term": "Catalyst",
+      "def": "A substance that speeds a reaction without being used up. It speeds both directions equally, so it cannot move the balance."
+    },
+    {
+      "term": "Henry's law",
+      "def": "The amount of gas a liquid holds at balance is proportional to the pressure of that gas above it."
+    },
+    {
+      "term": "Yield",
+      "def": "How much product you get compared with the most possible. Equilibrium sets its ceiling; speed decides how close you come."
+    }
+  ],
+  "links": {},
+  "storage": [
+    {
+      "key": "equilibriumclear.v1",
+      "what": "Which chapters you have opened, your best quiz scores, and sound on or off."
+    }
+  ],
+  "credits": [
+    {
+      "name": "three.js",
+      "license": "MIT",
+      "url": "https://threejs.org"
+    },
+    {
+      "name": "Geist, Instrument Serif",
+      "license": "SIL OFL 1.1",
+      "url": "https://openfontlicense.org"
+    }
+  ]
+}

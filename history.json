@@ -1,0 +1,659 @@
+{
+  "title": "The history of chemical equilibrium and Le Chatelier's principle",
+  "tagline": "From soda on an Egyptian lake shore to the reactors that grow half the world's food.",
+  "intro": "For most of history chemists thought a reaction simply happened or did not. In 1799 a French chemist in Egypt saw a familiar reaction running backwards. Over the next century others learned that reactions go both ways, found the law that fixes where they balance, and learned how to tip that balance. In 1909 the knowledge was used to pull fertiliser out of thin air.",
+  "eras": [
+    {
+      "id": "affinity",
+      "name": "Reactions that go both ways",
+      "from": 1799,
+      "to": 1860,
+      "color": "#c49bff",
+      "summary": "Berthollet sees a reaction reversed by sheer quantity. Williamson pictures equilibrium as two opposite reactions that never stop."
+    },
+    {
+      "id": "mass",
+      "name": "The law of the balance",
+      "from": 1860,
+      "to": 1890,
+      "color": "#6fb6ff",
+      "summary": "Guldberg and Waage find the equilibrium constant, Gibbs and van 't Hoff explain it with heat and energy, and Le Chatelier sums up how a balance shifts."
+    },
+    {
+      "id": "ammonia",
+      "name": "Bread from air",
+      "from": 1890,
+      "to": 1935,
+      "color": "#5ce1a9",
+      "summary": "Haber and Bosch use pressure, a compromise temperature, a catalyst and a recycle loop to make ammonia. It brings fertiliser, explosives and two Nobel Prizes."
+    },
+    {
+      "id": "modern",
+      "name": "A balanced world",
+      "from": 1935,
+      "to": 2026,
+      "color": "#ffb547",
+      "summary": "Ammonia plants spread to every farming country, the catalyst is finally understood, and equilibrium explains records kept in cave stone."
+    }
+  ],
+  "events": [
+    {
+      "year": 1799,
+      "date": "January 1799",
+      "era": "affinity",
+      "art": "flask",
+      "title": "Soda on the shore of a salt lake",
+      "who": "Claude-Louis Berthollet",
+      "where": "Natron Lakes, Egypt",
+      "country": "Egypt",
+      "text": "With Napoleon's expedition, the French chemist Berthollet visited the Natron Lakes north-west of Cairo. He saw soda (sodium carbonate) crusting on limestone at the edge of very salty water. In the laboratory the reaction was known to go the other way. He reasoned that a huge excess of salt was driving it backwards.",
+      "why": "It was one of the first recognitions that a reaction can run in either direction, depending on how much of each substance is present.",
+      "sources": [
+        5,
+        6
+      ],
+      "key": true,
+      "box": "idea"
+    },
+    {
+      "year": 1803,
+      "date": "1803",
+      "era": "affinity",
+      "art": "scroll",
+      "title": "Essay on chemical statics",
+      "who": "Claude-Louis Berthollet",
+      "where": "Paris",
+      "country": "France",
+      "text": "Berthollet published his Essai de statique chimique. He argued that the direction of a reaction is not fixed by the substances alone. The amounts present, and conditions such as heat, matter too.",
+      "why": "It planted the idea of reactions that stop part-way, at a balance, instead of running to the end.",
+      "sources": [
+        3,
+        2
+      ]
+    },
+    {
+      "year": 1803,
+      "date": "1803",
+      "era": "affinity",
+      "art": "waterdrop",
+      "title": "Twice the pressure, twice the gas",
+      "who": "William Henry",
+      "where": "Manchester",
+      "country": "England",
+      "text": "Henry measured how much gas water absorbs under different pressures. He found that the amount dissolved is proportional to the pressure of the gas above the water.",
+      "why": "Henry's law is the rule behind every fizzy drink, and an early, simple example of an equilibrium that pressure can shift.",
+      "sources": [
+        7
+      ],
+      "box": "fizz"
+    },
+    {
+      "year": 1850,
+      "date": "3 August 1850",
+      "era": "affinity",
+      "art": "molecule",
+      "title": "A balance that never rests",
+      "who": "Alexander Williamson",
+      "where": "Edinburgh (British Association meeting)",
+      "country": "Scotland",
+      "text": "Explaining how ether forms from alcohol, Williamson proposed that atoms and groups are exchanged between molecules all the time, even when nothing seems to change. Opposite reactions run at equal rates, so the amounts stay steady.",
+      "why": "This is the modern picture of dynamic equilibrium: busy at the scale of molecules, still at the scale of the flask.",
+      "sources": [
+        8
+      ],
+      "key": true,
+      "box": "idea"
+    },
+    {
+      "year": 1862,
+      "date": "1862",
+      "era": "mass",
+      "art": "flask",
+      "title": "Two-thirds, and no further",
+      "who": "Marcellin Berthelot and Léon Péan de Saint-Gilles",
+      "where": "Paris",
+      "country": "France",
+      "text": "The two chemists mixed an acid and an alcohol to make an ester and water, and followed the reaction for weeks. Starting with equal amounts, it stopped changing when about two-thirds had reacted, whichever side they started from.",
+      "why": "Their careful numbers were the data that Guldberg and Waage used to find the law of the balance.",
+      "sources": [
+        9,
+        3
+      ]
+    },
+    {
+      "year": 1864,
+      "date": "1864",
+      "era": "mass",
+      "art": "scales",
+      "title": "The law of mass action",
+      "who": "Cato Guldberg and Peter Waage",
+      "where": "Christiania (now Oslo)",
+      "country": "Norway",
+      "text": "Two brothers-in-law, a mathematician and a chemist, proposed that the push of a reaction depends on the 'active masses', the concentrations, of the reacting substances. At equilibrium the forward and backward pushes are equal. They published in Norwegian in 1864, in French in 1867 and in German in 1879.",
+      "why": "It gave equilibrium a formula: the equilibrium constant K. Few noticed until the later versions appeared.",
+      "sources": [
+        3,
+        4
+      ],
+      "key": true,
+      "box": "idea"
+    },
+    {
+      "year": 1876,
+      "date": "1876–1878",
+      "era": "mass",
+      "art": "scroll",
+      "title": "Equilibrium from energy",
+      "who": "J. Willard Gibbs",
+      "where": "New Haven, Connecticut",
+      "country": "USA",
+      "text": "In a long two-part paper, Gibbs showed that a mixture is at equilibrium when a quantity now called free energy is as low as it can get. The German chemist August Horstmann had applied entropy to chemical equilibrium a few years earlier, in 1873.",
+      "why": "It explained why K exists at all, and tied chemistry to the laws of heat.",
+      "sources": [
+        10,
+        2
+      ]
+    },
+    {
+      "year": 1884,
+      "date": "1884",
+      "era": "mass",
+      "art": "thermometer",
+      "title": "How heat moves the balance",
+      "who": "Jacobus van 't Hoff",
+      "where": "Amsterdam",
+      "country": "Netherlands",
+      "text": "In his book Études de dynamique chimique, van 't Hoff treated equilibrium as two opposing reactions and introduced the double arrow to show it. He showed how the equilibrium constant changes with temperature: heating favours the direction that absorbs heat.",
+      "why": "His equation is why K for N₂O₄ ⇌ 2NO₂ grows a hundredfold between 25 °C and 100 °C. He won the first Nobel Prize in Chemistry in 1901.",
+      "sources": [
+        11,
+        2,
+        20
+      ],
+      "key": true,
+      "box": "idea"
+    },
+    {
+      "year": 1884,
+      "date": "1884",
+      "era": "mass",
+      "art": "scales",
+      "title": "Le Chatelier states his principle",
+      "who": "Henry Louis Le Chatelier",
+      "where": "Paris",
+      "country": "France",
+      "text": "Le Chatelier, a mining engineer who studied cement and furnaces, generalised van 't Hoff's result. Any system in stable chemical equilibrium, he told the Academy of Sciences, responds to a change in temperature, pressure or concentration by shifting in the direction that opposes the change. He restated it more simply in 1888.",
+      "why": "One sentence now let a chemist or engineer predict which way a reaction would move without doing any sums.",
+      "sources": [
+        0,
+        1
+      ],
+      "key": true,
+      "box": "idea"
+    },
+    {
+      "year": 1887,
+      "date": "1887",
+      "era": "mass",
+      "art": "person",
+      "title": "Found again in Germany",
+      "who": "Karl Ferdinand Braun",
+      "where": "Tübingen",
+      "country": "Germany",
+      "text": "The physicist Braun, later famous for the cathode-ray tube, reached the same principle on his own while studying how pressure affects solubility. In German-speaking countries it is often called the Le Chatelier–Braun principle.",
+      "why": "Independent discovery showed the idea was a general law of nature, not one chemist's rule of thumb.",
+      "sources": [
+        0
+      ]
+    },
+    {
+      "year": 1901,
+      "date": "1901",
+      "era": "ammonia",
+      "art": "flame",
+      "title": "Le Chatelier's lost chance",
+      "who": "Henry Louis Le Chatelier",
+      "where": "Paris",
+      "country": "France",
+      "text": "Using his own principle, Le Chatelier tried to make ammonia from nitrogen and hydrogen at 200 atmospheres and 600 °C over iron. Air had leaked into the apparatus and it exploded, nearly killing an assistant. He gave up. He later called it the greatest blunder of his scientific career.",
+      "why": "The right idea needed safer engineering. Eight years later Fritz Haber succeeded.",
+      "sources": [
+        1
+      ],
+      "box": "haber"
+    },
+    {
+      "year": 1904,
+      "date": "1904",
+      "era": "ammonia",
+      "art": "lungs",
+      "title": "Carbon dioxide loosens oxygen",
+      "who": "Christian Bohr, Karl Hasselbalch and August Krogh",
+      "where": "Copenhagen",
+      "country": "Denmark",
+      "text": "The Danish physiologists showed that blood holds oxygen less tightly when carbon dioxide and acid rise. So blood gives up more oxygen exactly where tissues are working hardest. A Russian physiologist, Bronislav Verigo, may have seen the effect in 1898.",
+      "why": "The body tunes a chemical equilibrium to deliver oxygen where it is needed.",
+      "sources": [
+        12
+      ],
+      "box": "fizz"
+    },
+    {
+      "year": 1909,
+      "date": "2 July 1909",
+      "era": "ammonia",
+      "art": "piston2",
+      "title": "Ammonia, drop by drop",
+      "who": "Fritz Haber and Robert Le Rossignol",
+      "where": "Karlsruhe",
+      "country": "Germany",
+      "text": "Haber and his English assistant Le Rossignol showed visitors from BASF a table-top machine making liquid ammonia from nitrogen and hydrogen, about 125 mL an hour. It ran at about 175 bar and several hundred degrees with an osmium catalyst, and recycled the unreacted gas.",
+      "why": "It proved that high pressure, a catalyst and a recycle loop together could beat an unfavourable equilibrium.",
+      "sources": [
+        13,
+        14,
+        15
+      ],
+      "key": true,
+      "box": "haber"
+    },
+    {
+      "year": 1913,
+      "date": "9 September 1913",
+      "era": "ammonia",
+      "art": "building",
+      "title": "The first ammonia plant",
+      "who": "Carl Bosch and Alwin Mittasch, BASF",
+      "where": "Oppau, near Ludwigshafen",
+      "country": "Germany",
+      "text": "Bosch built reactors that could hold hot hydrogen at 200 bar without cracking. Mittasch's team tested thousands of catalysts and settled on cheap iron with small additions. The Oppau plant started up in September 1913 and made about 7,200 tonnes of ammonia in a year.",
+      "why": "Fertiliser could now be made from air. The same process still feeds the world.",
+      "sources": [
+        16,
+        13,
+        15
+      ],
+      "key": true,
+      "box": "haber"
+    },
+    {
+      "year": 1918,
+      "date": "1918 (awarded 1919)",
+      "era": "ammonia",
+      "art": "trophy",
+      "title": "A Nobel Prize, and a shadow",
+      "who": "Fritz Haber",
+      "where": "Stockholm",
+      "country": "Sweden",
+      "text": "Haber received the 1918 Nobel Prize in Chemistry for the synthesis of ammonia from its elements. He also led Germany's chemical weapons programme in the First World War and was present when chlorine gas was first released at Ypres on 22 April 1915. Of Jewish birth, he left Germany in 1933 and died in Basel in 1934.",
+      "why": "The same chemistry fed billions and supplied explosives for war, and its inventor remains one of science's most disputed figures.",
+      "sources": [
+        17,
+        14
+      ],
+      "key": true
+    },
+    {
+      "year": 1931,
+      "date": "1931",
+      "era": "ammonia",
+      "art": "trophy",
+      "title": "A prize for high pressure",
+      "who": "Carl Bosch and Friedrich Bergius",
+      "where": "Stockholm",
+      "country": "Sweden",
+      "text": "Bosch shared the Nobel Prize in Chemistry with Bergius for inventing and developing chemical high-pressure methods. It was the first chemistry Nobel given for engineering a process.",
+      "why": "Running reactions at hundreds of bar, as Le Chatelier's principle demands for ammonia, had become an industry of its own.",
+      "sources": [
+        18,
+        15
+      ]
+    },
+    {
+      "year": 1951,
+      "date": "31 October 1951",
+      "era": "modern",
+      "art": "leaf",
+      "title": "India's first big fertiliser factory",
+      "who": "Sindri Fertilisers",
+      "where": "Sindri, Bihar (now Jharkhand)",
+      "country": "India",
+      "text": "The Sindri factory began making ammonium sulphate from synthetic ammonia. Prime Minister Jawaharlal Nehru formally opened it on 2 March 1952 and spoke of it as a temple of modern India.",
+      "why": "It was the start of India's nitrogen fertiliser industry, which now makes over 300 lakh tonnes of urea a year.",
+      "sources": [
+        21,
+        23
+      ],
+      "box": "haber"
+    },
+    {
+      "year": 2007,
+      "date": "2007",
+      "era": "modern",
+      "art": "molecule",
+      "title": "How iron does it",
+      "who": "Gerhard Ertl",
+      "where": "Berlin",
+      "country": "Germany",
+      "text": "Ertl won the Nobel Prize in Chemistry for studies of chemical processes on solid surfaces. Among them, he had worked out step by step how nitrogen molecules split into atoms on an iron surface and pick up hydrogen to become ammonia.",
+      "why": "A century after Haber, chemists finally saw how the catalyst speeds both directions without changing the balance.",
+      "sources": [
+        19
+      ],
+      "key": true,
+      "box": "haber"
+    },
+    {
+      "year": 2008,
+      "date": "2008",
+      "era": "modern",
+      "art": "earth",
+      "title": "Half the world is fed this way",
+      "who": "Jan Willem Erisman and colleagues",
+      "where": "Nature Geoscience",
+      "country": "International",
+      "text": "A study marking a century of ammonia synthesis estimated that nitrogen fertiliser from the Haber–Bosch process supported 44 % of the world's people in 2000 and about 48 % in 2008. The process uses roughly 1–2 % of the world's energy supply.",
+      "why": "An equilibrium pushed uphill in steel reactors is one of the foundations of modern life, and of its nitrogen pollution.",
+      "sources": [
+        22,
+        13
+      ]
+    },
+    {
+      "year": 2018,
+      "date": "July 2018",
+      "era": "modern",
+      "art": "mountain",
+      "title": "An age named after a cave's stone",
+      "who": "International Commission on Stratigraphy",
+      "where": "Mawmluh cave, Meghalaya",
+      "country": "India",
+      "text": "Geologists divided the present epoch into three ages. The latest, the Meghalayan, begins 4,200 years ago with a long drought recorded in the layers of a stalagmite from Mawmluh cave near Cherrapunji. Each layer was left by drip water losing carbon dioxide.",
+      "why": "A shifting chemical equilibrium, drop by drop, wrote the climate record that now marks the age we live in.",
+      "sources": [
+        25,
+        24,
+        26
+      ],
+      "key": true,
+      "box": "stone"
+    }
+  ],
+  "firsts": [
+    {
+      "label": "Reversible reaction recognised",
+      "value": "1799",
+      "who": "Claude-Louis Berthollet, in Egypt"
+    },
+    {
+      "label": "Dynamic equilibrium described",
+      "value": "1850",
+      "who": "Alexander Williamson, Britain"
+    },
+    {
+      "label": "Law of mass action",
+      "value": "1864",
+      "who": "Cato Guldberg and Peter Waage, Norway"
+    },
+    {
+      "label": "The double arrow ⇌ for equilibrium",
+      "value": "1884",
+      "who": "Jacobus van 't Hoff, Netherlands"
+    },
+    {
+      "label": "Le Chatelier's principle stated",
+      "value": "1884",
+      "who": "Henry Louis Le Chatelier, France"
+    },
+    {
+      "label": "Ammonia made from its elements",
+      "value": "1909",
+      "who": "Fritz Haber and Robert Le Rossignol, Germany"
+    },
+    {
+      "label": "First ammonia synthesis plant",
+      "value": "1913",
+      "who": "BASF, Oppau, Germany"
+    },
+    {
+      "label": "India's first large fertiliser factory",
+      "value": "1951",
+      "who": "Sindri, now in Jharkhand"
+    }
+  ],
+  "people": [
+    {
+      "name": "Claude-Louis Berthollet",
+      "life": "1748 – 1822",
+      "role": "Chemist",
+      "from": "France",
+      "note": "Saw in Egypt that a large excess of one substance can drive a reaction backwards."
+    },
+    {
+      "name": "Alexander Williamson",
+      "life": "1824 – 1904",
+      "role": "Chemist",
+      "from": "England",
+      "note": "First described equilibrium as two opposite reactions running at equal rates."
+    },
+    {
+      "name": "Cato Guldberg",
+      "life": "1836 – 1902",
+      "role": "Mathematician and chemist",
+      "from": "Norway",
+      "note": "With his brother-in-law Peter Waage, found the law of mass action."
+    },
+    {
+      "name": "Peter Waage",
+      "life": "1833 – 1900",
+      "role": "Chemist",
+      "from": "Norway",
+      "note": "Did the experiments behind the law of mass action."
+    },
+    {
+      "name": "Jacobus van 't Hoff",
+      "life": "1852 – 1911",
+      "role": "Physical chemist",
+      "from": "Netherlands",
+      "note": "Showed how temperature moves an equilibrium; first Nobel laureate in chemistry, 1901."
+    },
+    {
+      "name": "Henry Louis Le Chatelier",
+      "life": "1850 – 1936",
+      "role": "Chemist and engineer",
+      "from": "France",
+      "note": "Stated the principle that an equilibrium shifts to oppose a change."
+    },
+    {
+      "name": "Fritz Haber",
+      "life": "1868 – 1934",
+      "role": "Chemist",
+      "from": "Germany",
+      "note": "Made ammonia from nitrogen and hydrogen in 1909; also directed Germany's gas warfare in 1915."
+    },
+    {
+      "name": "Robert Le Rossignol",
+      "life": "1884 – 1976",
+      "role": "Chemist and engineer",
+      "from": "Jersey",
+      "note": "Built the high-pressure apparatus that made Haber's demonstration work."
+    },
+    {
+      "name": "Carl Bosch",
+      "life": "1874 – 1940",
+      "role": "Chemical engineer",
+      "from": "Germany",
+      "note": "Turned Haber's bench apparatus into an industrial plant at Oppau."
+    },
+    {
+      "name": "Alwin Mittasch",
+      "life": "1869 – 1953",
+      "role": "Chemist",
+      "from": "Germany",
+      "note": "Led the search through thousands of materials for a cheap iron catalyst."
+    },
+    {
+      "name": "Gerhard Ertl",
+      "life": "born 1936",
+      "role": "Surface chemist",
+      "from": "Germany",
+      "note": "Worked out how ammonia forms on iron, step by step. Nobel Prize 2007."
+    }
+  ],
+  "series": [],
+  "facts": [
+    "At equilibrium nothing has stopped. In a sealed fizzy drink, carbon dioxide molecules leave the liquid and return to it at equal rates.",
+    "A catalyst cannot change how much product you get at equilibrium. It only changes how long you wait.",
+    "At 200 bar the ammonia balance holds about 87 % ammonia at 200 °C but only about 19 % at 500 °C. Plants still run hot, because cold is too slow.",
+    "Le Chatelier tried to make ammonia in 1901, eight years before Haber. His apparatus exploded and he stopped.",
+    "India made about 314 lakh tonnes of urea in 2023–24, all of it from Haber–Bosch ammonia.",
+    "The scale in a kettle and a stalactite in a cave are made by the same reaction: water losing carbon dioxide and dropping its dissolved limestone."
+  ],
+  "sources": [
+    {
+      "title": "Le Chatelier's principle",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Le_Chatelier%27s_principle"
+    },
+    {
+      "title": "Henry Louis Le Chatelier",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henry_Louis_Le_Chatelier"
+    },
+    {
+      "title": "Chemical equilibrium",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Chemical_equilibrium"
+    },
+    {
+      "title": "Law of mass action",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Law_of_mass_action"
+    },
+    {
+      "title": "Cato Maximilian Guldberg",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Cato_Maximilian_Guldberg"
+    },
+    {
+      "title": "Napoleon and the Scientific Expedition to Egypt: Berthollet and the soda lakes",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/experience/digital-exhibitions/napoleon-and-the-scientific-expedition-to-egypt/07-berthollet-and-the-soda-lakes/"
+    },
+    {
+      "title": "Claude-Louis Berthollet, Scientist of the Day",
+      "publisher": "Linda Hall Library",
+      "url": "https://www.lindahall.org/about/news/scientist-of-the-day/claude-louis-berthollet"
+    },
+    {
+      "title": "Henry's law",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Henry%27s_law"
+    },
+    {
+      "title": "Alexander William Williamson",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Alexander_William_Williamson"
+    },
+    {
+      "title": "Léon Péan de Saint-Gilles",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/L%C3%A9on_P%C3%A9an_de_Saint-Gilles"
+    },
+    {
+      "title": "On the Equilibrium of Heterogeneous Substances",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/On_the_Equilibrium_of_Heterogeneous_Substances"
+    },
+    {
+      "title": "Jacobus Henricus van 't Hoff",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jacobus_Henricus_van_%27t_Hoff"
+    },
+    {
+      "title": "Bohr effect",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Bohr_effect"
+    },
+    {
+      "title": "Haber process",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Haber_process"
+    },
+    {
+      "title": "Fritz Haber",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Fritz_Haber"
+    },
+    {
+      "title": "Carl Bosch",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Carl_Bosch"
+    },
+    {
+      "title": "1913: First ammonia synthesis plant",
+      "publisher": "BASF corporate history",
+      "url": "https://www.basf.com/rs/sr/who-we-are/History/chronology/1902-1924/1913"
+    },
+    {
+      "title": "The Nobel Prize in Chemistry 1918",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1918/summary/"
+    },
+    {
+      "title": "The Nobel Prize in Chemistry 1931",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1931/summary/"
+    },
+    {
+      "title": "The Nobel Prize in Chemistry 2007: popular information",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2007/popular-information/"
+    },
+    {
+      "title": "The Nobel Prize in Chemistry 1901",
+      "publisher": "NobelPrize.org",
+      "url": "https://www.nobelprize.org/prizes/chemistry/1901/summary/"
+    },
+    {
+      "title": "Sindri (Dhanbad)",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Sindri_(Dhanbad)"
+    },
+    {
+      "title": "How a century of ammonia synthesis changed the world (Erisman and others, Nature Geoscience, 2008)",
+      "publisher": "IIASA repository",
+      "url": "https://pure.iiasa.ac.at/id/eprint/8475/"
+    },
+    {
+      "title": "Fertiliser sector fact sheet, August 2025",
+      "publisher": "Press Information Bureau, Government of India",
+      "url": "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/aug/doc202583598601.pdf"
+    },
+    {
+      "title": "Mawmluh Cave",
+      "publisher": "UNESCO World Heritage Centre, tentative lists",
+      "url": "https://whc.unesco.org/en/tentativelists/6892/"
+    },
+    {
+      "title": "Welcome to the Meghalayan Age",
+      "publisher": "CBC News",
+      "url": "https://www.cbc.ca/news/technology/meghalayan-age-geologic-time-scale-1.4755351"
+    },
+    {
+      "title": "Stalactite",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Stalactite"
+    },
+    {
+      "title": "Dinitrogen tetroxide",
+      "publisher": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Dinitrogen_tetroxide"
+    },
+    {
+      "title": "The solubilities of calcite, aragonite and vaterite in CO2-H2O solutions between 0 and 90 °C (Plummer and Busenberg, 1982)",
+      "publisher": "U.S. Geological Survey",
+      "url": "https://pubs.usgs.gov/publication/70011789"
+    }
+  ]
+}
